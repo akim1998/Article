@@ -1,0 +1,50 @@
+h1{
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto 0 auto;
+  font-size: 72px;
+}
+h2{
+  text-align: center;
+  margin: 0 auto 0 auto;
+  font-size: 20px;
+  font-style: normal;
+  border-top-width: thick;
+}
+h1,h2,h3 {text-align: center;
+}
+h1,h2,h3,.Writing {
+  font-weight:lighter;
+  font-family:helvetica,arial,sans-serif;
+  font-variant: small-caps;
+  color:white;
+  opacity: .8;
+}
+.Writing {
+  text-align: justify;
+  max-width: 1000px;
+  margin: 0 auto 0 auto;
+  font-size: 18px;
+  text-indent: 40px;
+
+}
+.Galaxy {
+  transform: scale(.5, .5);
+  max-width: 1000px;
+  align-content: center center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top-width: 0;
+  border-bottom-width: 0;
+  justify-content: center;
+}
+img {
+  justify-content: center;
+}
+html{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg);
+  background-repeat: repeat-y;
+  background-size: auto;
+}
